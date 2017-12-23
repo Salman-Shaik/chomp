@@ -1,0 +1,83 @@
+table{
+  border-collapse: collapse;
+  margin:50px 10px 0px 30px;
+}
+td{
+  border-collapse: collapse;
+  height:100px;
+  width:100px;
+  border:2px solid black;
+}
+h2{
+  font-family: serif;
+  margin-top: 50px;
+  margin-top: 30px;
+}
+.pip{
+  background-image: url("../images/choco.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.poisoned_pip{
+  background-image: url("../images/poison.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bar{
+  margin:150px 300px 0px 340px;
+  border-bottom: 8px solid  #e1792d;
+  border-right: 2px solid darkGrey;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 10px 10px 10px darkGrey inset;
+}
+
+button{
+  margin-bottom: 10px;
+  background-color: #e1792d;
+  padding: 10px;
+  margin-top:20px 0px 0px 0px;
+  font-family: sans-serif;
+  font-size: 27px;
+  font-weight:lighter;
+  width: 270px;
+  height: 90px;
+  border-radius: 5px;
+  border: 0px;
+  box-shadow: 0px 0px 0px;
+}
+button:hover{
+  background-color: #c5621c;
+}
+
+body{
+  background-image: url('../images/chocolateBackround.jpg');
+}
+h1{
+  color: white;
+  font-size: 100px;
+}
+.helpBlock{
+  margin:50px 525px 0px 565px;
+  border-top: 5px solid  #e1792d;
+  border-left: 1px solid darkGrey;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 5px 8px 12px darkGrey;
+}
+h3{
+  color:black;
+  font-family: serif;
+  font-size: 50px;
+  margin-top: 10px;
+}
+p{
+  text-align:justify;
+  font-size: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
