@@ -1,13 +1,13 @@
 const loadChompGame=function(){
-  window.location.href="main.html";
+  window.location.href="src/main.html";
 };
 
 const loadReverseChompGame=function(){
-  window.location.href="reversemain.html";
+  window.location.href="src/reversemain.html";
 };
 
 const loadGameHelp=function(){
-  window.location.href="help.html";
+  window.location.href="src/help.html";
 };
 
 const addClickListenersToButtons=function(){
